@@ -4,7 +4,7 @@
 
 Não, nenhuma informação é coletada.
 
-# • Onde este aplicativo salva as informações de fundos imobiliários procurados no histórico de pesquisa?
+# • Onde este aplicativo salva as informações dos fundos imobiliários procurados para serem mostrados no histórico de pesquisa dentro do app?
 
 Todas as informações inseridas pelo usuário são salvas localmente, e apagadas quando o usuário desinstalar o aplicativo, ou limpa os dados do mesmo.
 
